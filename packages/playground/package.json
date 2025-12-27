@@ -111,7 +111,7 @@
     "cross-env": "~10.1.0",
     "es-module-shims": "~2.7.0",
     "rimraf": "~6.1.2",
-    "storybook": "^10.1.8",
+    "storybook": "^10.1.10",
     "typescript": "~5.9.2",
     "vite": "^7.2.7",
     "vite-plugin-checker": "^0.12.0",
